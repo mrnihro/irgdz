@@ -1,0 +1,5 @@
+{
+  "name": "Calculateur IRG Algérie",
+  "description": "An advanced web application to calculate the Algerian Income Tax (IRG) based on the official tax brackets and the second abatement rule. It provides a detailed, step-by-step breakdown of the calculation, supports multiple languages (Arabic, French, English), and offers various rounding options.",
+  "requestFramePermissions": []
+}
